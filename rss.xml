@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[garyschapman]]></title>
         <description><![CDATA[garyschapman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/garyschapman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 14:50:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 15:02:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/garyschapman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[India: TOMS Shoes]]></title>
+            <description><![CDATA[<article><h1>India: TOMS Shoes</h1><p>Just last week Vivian and I were in India for TOMS shoes. It was a bit different assignment in that I mostly work directly with non-profits, but TOMS is a for-profit company that is doing some great work through its giving partners world wide. If you're not familiar with TOMS, their motto is "One for One."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0341226749e1c1600d5cedd7fbebf8aaa1836743.jpg"></article>]]></description>
+            <link>http://blog.garyschapman.com/2015/10/16/india-toms-shoes/</link>
+            <guid isPermaLink="false">4c0e1d6a-2f8b-4f18-a0a1-4a47c1746eb8</guid>
+            <pubDate>Wed, 03 Feb 2016 15:02:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[India: Fighting For Sight]]></title>
-            <description><![CDATA[<article><h1>India: Fighting For Sight</h1><p>At nine years old, Nehru's head barely reaches over the counter at the hospital admitting desk. His eyes, clouded over with the dull blueness of cataracts, reveal the complexity of competing thoughts...anxiety over the coming surgery, but hope for the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1e1bb6533b5ff1b08b11e468e0c07d5407a7aeb0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>India: Fighting For Sight</h1><p>At nine years old, Nehru's head barely reaches over the counter at the hospital admitting desk. His eyes, clouded over with the dull blueness of cataracts, reveal the complexity of competing thoughts...anxiety over the coming surgery, but hope for the future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af858008a3dbf798a389a0b41dc9e04dd6168d09.jpg"></article>]]></description>
             <link>http://blog.garyschapman.com/2015/11/04/india-fighting-for-sight/</link>
             <guid isPermaLink="false">91e7c0f6-86a3-4542-9bcb-e94551bfca6c</guid>
             <pubDate>Wed, 03 Feb 2016 14:50:07 GMT</pubDate>

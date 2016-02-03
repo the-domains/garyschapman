@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Gary S. Chapman
-    url: 'http://blog.garyschapman.com/author/admin/'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://blog.garyschapman.com'
-  name: Garyschapman
-  favicon: null
-  domain: blog.garyschapman.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://blog.garyschapman.com/2015/11/04/india-fighting-for-sight/'
+inLanguage: en
+starred: false
 keywords:
   - nehru
   - cataract
@@ -21,17 +17,23 @@ keywords:
   - d750
   - 24-70mm
 description: "At nine years old, Nehru's head barely reaches over the counter at the hospital admitting desk. His eyes, clouded over with the dull blueness of cataracts, reveal the complexity of competing thoughts...anxiety over the coming surgery, but hope for the future."
-inLanguage: en
+datePublished: '2016-02-03T15:32:49.597Z'
+dateModified: '2016-02-03T15:31:35.833Z'
+author:
+  - name: Gary S. Chapman
+    url: 'http://blog.garyschapman.com/author/admin/'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://blog.garyschapman.com/2015/11/04/india-fighting-for-sight/'
 title: 'India: Fighting For Sight'
-datePublished: '2016-02-03T14:50:07.387Z'
-dateModified: '2016-02-03T14:48:58.435Z'
 sourcePath: _posts/2016-02-03-india-fighting-for-sight.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Garyschapman
+  domain: blog.garyschapman.com
+  url: 'http://blog.garyschapman.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 

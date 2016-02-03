@@ -1,0 +1,28 @@
+name: garyschapman
+favicon: null
+layout_spectrum: 0.43921810621395707
+typography_spectrum: 0.7639527106657624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.71745446883142
+  lightness: 0.23173241666518152
+  saturation: 0.4190694554708898
+  rhythmicContrast: 0.6828933358192444
+purpose: []
